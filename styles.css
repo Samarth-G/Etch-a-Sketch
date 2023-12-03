@@ -9,6 +9,7 @@ button {
     border: 0;
     color: black;
     padding: 12px;
+    font-size: 15px;
     font-weight: bold;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -22,7 +23,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-color: black;
+    background-color: #696969;
     color: white;
 }
 
@@ -36,5 +37,5 @@ button {
 }
 
 .cell.hover {
-    background-color: black;
+    background-color: #A9A9A9;
 }
